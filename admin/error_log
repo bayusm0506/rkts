@@ -1,0 +1,33 @@
+[12-Mar-2016 03:18:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rktsumaac/public_html/admin/ekts.php on line 1938
+[25-Mar-2016 06:28:29 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[25-Mar-2016 06:39:07 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[26-May-2016 02:53:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rktsumaac/public_html/admin/lembar_koreksi2.php on line 3115
+[26-May-2016 02:53:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rktsumaac/public_html/admin/lembar_koreksi2.php on line 3115
+[26-May-2016 02:54:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rktsumaac/public_html/admin/lembar_koreksi2.php on line 3115
+[26-May-2016 03:42:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rktsumaac/public_html/admin/lembar_koreksi2.php on line 3158
+[26-May-2016 07:03:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rktsumaac/public_html/admin/lembar_koreksi2.php on line 2756
+[21-Oct-2016 16:41:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rktsumaac/public_html/admin/lembar_koreksi2.php on line 1641
+[21-Oct-2016 16:42:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rktsumaac/public_html/admin/lembar_koreksi2.php on line 2524
+[17-Nov-2016 08:31:33 UTC] PHP Parse error:  syntax error, unexpected 'tbl_nilai' (T_STRING) in /home/rktsumaac/public_html/admin/lembar_koreksi2.php on line 135
+[24-Nov-2016 19:41:18 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/rktsumaac/public_html/admin/config.php on line 13
+[24-Nov-2016 19:41:37 UTC] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/rktsumaac/public_html/admin/config.php on line 13
+[13-Dec-2016 03:08:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rktsumaac/public_html/v2/admin/process.php on line 874
+[13-Dec-2016 03:08:56 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rktsumaac/public_html/v2/admin/process.php on line 874
+[13-Dec-2016 03:09:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rktsumaac/public_html/v2/admin/process.php on line 874
+[12-Jan-2017 02:55:59 UTC] PHP Parse error:  syntax error, unexpected 'gradeA' (T_STRING) in /home/rktsumaac/public_html/v2/admin/rkts_koreksigenap.php on line 42
+[12-Jan-2017 03:32:06 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/rktsumaac/public_html/v2/admin/lembar_koreksi.php on line 1461
+[12-Jan-2017 03:33:29 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/rktsumaac/public_html/v2/admin/lembar_koreksi.php on line 1461
+[12-Jan-2017 03:33:31 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/rktsumaac/public_html/v2/admin/lembar_koreksi.php on line 1461
+[12-Jan-2017 03:33:32 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/rktsumaac/public_html/v2/admin/lembar_koreksi.php on line 1461
+[12-Jan-2017 03:33:32 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/rktsumaac/public_html/v2/admin/lembar_koreksi.php on line 1461
+[12-Jan-2017 03:33:32 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/rktsumaac/public_html/v2/admin/lembar_koreksi.php on line 1461
+[12-Jan-2017 04:04:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rktsumaac/public_html/v2/admin/lembar_koreksi.php on line 12160
+[12-Jan-2017 08:12:39 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/rktsumaac/public_html/v2/admin/lembar_koreksi.php on line 3129
+[16-Jan-2017 07:36:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rktsumaac/public_html/v2/admin/buat_rkts.php on line 1299
+[16-Jan-2017 07:36:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rktsumaac/public_html/v2/admin/buat_rkts.php on line 1299
+[23-Jan-2017 01:49:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rktsumaac/public_html/v2/admin/lembar_koreksi2.php on line 2
+[23-Jan-2017 02:41:43 UTC] PHP Parse error:  syntax error, unexpected ''keterangan_e' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rktsumaac/public_html/v2/admin/lembar_koreksi2.php on line 12071
+[26-Jan-2017 08:05:48 UTC] PHP Warning:  move_uploaded_file(admin/berkas/28596-100-gambar-dp-bbm-bahasa-jawa-kocak-lucu-gokil-32.png): failed to open stream: No such file or directory in /home/rktsumaac/public_html/v2/admin/uploadberkas.php on line 89
+[26-Jan-2017 08:05:48 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpf5PM5X' to 'admin/berkas/28596-100-gambar-dp-bbm-bahasa-jawa-kocak-lucu-gokil-32.png' in /home/rktsumaac/public_html/v2/admin/uploadberkas.php on line 89
+[26-Jan-2017 16:49:26 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rktsumaac/public_html/v2/admin/rkts_koreksi.php on line 74
+[26-Jan-2017 16:50:20 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rktsumaac/public_html/v2/admin/rkts_koreksi.php on line 74
